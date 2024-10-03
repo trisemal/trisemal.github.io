@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trisemal.github.io/sitemap.html.gz
+Sitemap: https://trisemal.github.io/app/sitemap.html.gz
+Sitemap: https://trisemal.github.io/assets/sitemap.html.gz
+Sitemap: https://trisemal.github.io/css/sitemap.html.gz
+Sitemap: https://trisemal.github.io/data/sitemap.html.gz
+Sitemap: https://trisemal.github.io/includes/sitemap.html.gz
+Sitemap: https://trisemal.github.io/item/sitemap.html.gz
+Sitemap: https://trisemal.github.io/src/sitemap.html.gz
